@@ -63,8 +63,8 @@
       <annotation>68ec89ab-6b11-4b04-909d-4408e04b5d08.672c5cd8-295d-4659-8fd0-e117eb00d348.description</annotation>
       <name>SSH Command</name>
       <bounds>
-        <x>80.0</x>
-        <y>36.0</y>
+        <x>235.0</x>
+        <y>56.0</y>
       </bounds>
       <layer>-1</layer>
       <hideInbound>false</hideInbound>
@@ -410,8 +410,8 @@
       <annotation>68ec89ab-6b11-4b04-909d-4408e04b5d08.1ad8e476-0f71-4071-9f17-2d363ffb52ff.description</annotation>
       <name>Send Mail</name>
       <bounds>
-        <x>75.0</x>
-        <y>292.0</y>
+        <x>230.0</x>
+        <y>312.0</y>
       </bounds>
       <layer>-1</layer>
       <hideInbound>false</hideInbound>
@@ -854,8 +854,8 @@
       <annotation>68ec89ab-6b11-4b04-909d-4408e04b5d08.1910aa2d-3f38-431e-b1d1-27510061516a.description</annotation>
       <name>Send Mail</name>
       <bounds>
-        <x>419.0</x>
-        <y>33.0</y>
+        <x>574.0</x>
+        <y>53.0</y>
       </bounds>
       <layer>-1</layer>
       <hideInbound>false</hideInbound>
@@ -1299,8 +1299,8 @@
       <annotation></annotation>
       <name>Resolved : success</name>
       <bounds>
-        <x>849.0</x>
-        <y>31.0</y>
+        <x>1004.0</x>
+        <y>51.0</y>
       </bounds>
       <layer>-1</layer>
       <hideInbound>false</hideInbound>
@@ -1343,8 +1343,8 @@
       <annotation></annotation>
       <name>Error : failure</name>
       <bounds>
-        <x>426.0</x>
-        <y>294.0</y>
+        <x>581.0</x>
+        <y>314.0</y>
       </bounds>
       <layer>-1</layer>
       <hideInbound>false</hideInbound>
@@ -1387,8 +1387,8 @@
       <annotation></annotation>
       <name>Resolved : success</name>
       <bounds>
-        <x>76.0</x>
-        <y>479.0</y>
+        <x>231.0</x>
+        <y>499.0</y>
       </bounds>
       <layer>-1</layer>
       <hideInbound>false</hideInbound>
